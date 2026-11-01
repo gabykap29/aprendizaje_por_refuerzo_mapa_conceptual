@@ -1,0 +1,14 @@
+# Entornos virtuales y caché de Python
+env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Temporales y pruebas de diseño
+*.tmp
+prueba*.pdf
+.DS_Store
+
+# Versión anterior (reemplazada por pdf/..._PAGINAS.pdf); se conserva solo en local
+alternativa_navegador/
